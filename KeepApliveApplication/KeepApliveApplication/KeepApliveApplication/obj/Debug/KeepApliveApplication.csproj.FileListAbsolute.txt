@@ -1,0 +1,7 @@
+E:\Sync\Strumenti Servers\KeepApliveApplication\KeepApliveApplication\KeepApliveApplication\bin\Debug\KeepApliveApplication.exe.config
+E:\Sync\Strumenti Servers\KeepApliveApplication\KeepApliveApplication\KeepApliveApplication\bin\Debug\KeepApliveApplication.exe
+E:\Sync\Strumenti Servers\KeepApliveApplication\KeepApliveApplication\KeepApliveApplication\bin\Debug\KeepApliveApplication.pdb
+E:\Sync\Strumenti Servers\KeepApliveApplication\KeepApliveApplication\KeepApliveApplication\obj\Debug\KeepApliveApplication.csprojAssemblyReference.cache
+E:\Sync\Strumenti Servers\KeepApliveApplication\KeepApliveApplication\KeepApliveApplication\obj\Debug\KeepApliveApplication.csproj.CoreCompileInputs.cache
+E:\Sync\Strumenti Servers\KeepApliveApplication\KeepApliveApplication\KeepApliveApplication\obj\Debug\KeepApliveApplication.exe
+E:\Sync\Strumenti Servers\KeepApliveApplication\KeepApliveApplication\KeepApliveApplication\obj\Debug\KeepApliveApplication.pdb
