@@ -5,3 +5,10 @@ E:\Sync\Strumenti Servers\KeepApliveApplication\KeepApliveApplication\KeepAplive
 E:\Sync\Strumenti Servers\KeepApliveApplication\KeepApliveApplication\KeepApliveApplication\obj\Release\KeepApliveApplication.exe
 E:\Sync\Strumenti Servers\KeepApliveApplication\KeepApliveApplication\KeepApliveApplication\obj\Release\KeepApliveApplication.pdb
 E:\Sync\Strumenti Servers\KeepApliveApplication\KeepApliveApplication\KeepApliveApplication\obj\Release\KeepApliveApplication.csprojAssemblyReference.cache
+E:\Sync\Strumenti Servers\KeepAliveDesktop\KeepApliveApplication\KeepApliveApplication\KeepApliveApplication\bin\Release\KeepApliveApplication.exe.config
+E:\Sync\Strumenti Servers\KeepAliveDesktop\KeepApliveApplication\KeepApliveApplication\KeepApliveApplication\bin\Release\KeepApliveApplication.exe
+E:\Sync\Strumenti Servers\KeepAliveDesktop\KeepApliveApplication\KeepApliveApplication\KeepApliveApplication\bin\Release\KeepApliveApplication.pdb
+E:\Sync\Strumenti Servers\KeepAliveDesktop\KeepApliveApplication\KeepApliveApplication\KeepApliveApplication\obj\Release\KeepApliveApplication.csprojAssemblyReference.cache
+E:\Sync\Strumenti Servers\KeepAliveDesktop\KeepApliveApplication\KeepApliveApplication\KeepApliveApplication\obj\Release\KeepApliveApplication.csproj.CoreCompileInputs.cache
+E:\Sync\Strumenti Servers\KeepAliveDesktop\KeepApliveApplication\KeepApliveApplication\KeepApliveApplication\obj\Release\KeepApliveApplication.exe
+E:\Sync\Strumenti Servers\KeepAliveDesktop\KeepApliveApplication\KeepApliveApplication\KeepApliveApplication\obj\Release\KeepApliveApplication.pdb

@@ -18,6 +18,8 @@ namespace KeepApliveApplication
 
         private System.Timers.Timer aTimer;
 
+        private long countTimes = 0;
+
         private void SetTimer()
         {
             // Create a timer with a two second interval.
@@ -70,6 +72,12 @@ namespace KeepApliveApplication
             await client.GetStringAsync(url);
             Console.WriteLine();
             Console.WriteLine("Processed");
+            countTimes++;
+            if(countTimes >= 1000)
+            {
+                countTimes = 0;
+                Console.Clear();
+            }
         }
 
         async Task RegistrateApplication(string appname, string interval)
