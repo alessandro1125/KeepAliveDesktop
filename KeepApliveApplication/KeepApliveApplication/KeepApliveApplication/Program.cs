@@ -68,7 +68,7 @@ namespace KeepApliveApplication
         {
             HttpClient client = new HttpClient();
             client.Timeout = TimeSpan.FromMilliseconds(10000);
-            string url = "https://licencesmanager.herokuapp.com/keep_alive/" + this.appname + "/keep_alive";
+            string url = "https://licencesmanager.herokuapp.com/keep_alive/" + this.appname + "/keep_alive?interval=" + interval;
             await client.GetStringAsync(url);
             Console.WriteLine();
             Console.WriteLine("Processed");
